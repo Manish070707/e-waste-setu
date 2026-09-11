@@ -1,0 +1,131 @@
+{
+  "appName": "E-Waste Setu",
+  "tagline": "Digital bridge from informal collectors to formal recycling",
+  "nav": {
+    "how": "How It Works",
+    "rates": "Today's Rates",
+    "recyclers": "Authorized Recyclers",
+    "safety": "Safety",
+    "impact": "Impact",
+    "login": "Login",
+    "cta": "Start Selling Safely"
+  },
+  "hero": {
+    "headline": "Better Prices. Safer Recycling. Transparent Handover.",
+    "subhi": "कबाड़ से बेहतर कमाई, सुरक्षित और अधिकृत रीसाइक्लिंग के साथ",
+    "primaryCta": "Create E-Waste Lot",
+    "secondaryCta": "View Today's Rates",
+    "notMarketplace": "Not another scrap marketplace — a formal recycling bridge."
+  },
+  "stats": {
+    "kg": "E-Waste Traceable",
+    "recyclers": "Authorized Recyclers",
+    "earnings": "Collector Earnings",
+    "safe": "Safe Handover"
+  },
+  "how": {
+    "title": "How It Works",
+    "steps": [
+      "Photograph Material",
+      "Select Material",
+      "Enter Weight",
+      "Check Fair Price",
+      "Find Authorized Recycler",
+      "Confirm Handover",
+      "Get Paid",
+      "Track Earnings"
+    ]
+  },
+  "collector": {
+    "greeting": "Namaste",
+    "newLot": "New Lot",
+    "newLotHi": "नया लॉट बनाएं",
+    "rates": "Today's Rates",
+    "ratesHi": "आज के रेट",
+    "findRecycler": "Find Recycler",
+    "findRecyclerHi": "रिसाइक्लर खोजें",
+    "earnings": "My Earnings",
+    "earningsHi": "मेरी कमाई",
+    "myLots": "My Lots",
+    "myLotsHi": "मेरे लॉट",
+    "safety": "Safety",
+    "safetyHi": "सुरक्षा जानकारी",
+    "listen": "Listen",
+    "listenHi": "आवाज़ में सुनें",
+    "demo": "Demo Scenario"
+  },
+  "lot": {
+    "create": "Create New Lot",
+    "stepPhoto": "Upload or capture image",
+    "stepMaterial": "Identify material",
+    "stepWeight": "Approximate weight",
+    "stepCondition": "Condition",
+    "stepLocation": "Location",
+    "stepEstimate": "Estimated value",
+    "stepCreate": "Create digital lot",
+    "aiLabel": "AI identification",
+    "confidence": "Confidence",
+    "disclaimer": "This is an estimated price. Final price will be decided after recycler verification.",
+    "createLot": "Create Digital Lot"
+  },
+  "rates": {
+    "title": "Today's Rates",
+    "updated": "Updated today",
+    "listen": "Listen"
+  },
+  "match": {
+    "title": "Recommended Recyclers",
+    "why": "Why recommended?",
+    "select": "Select Recycler",
+    "authorized": "Authorized",
+    "pickup": "Pickup Available",
+    "estimated": "Estimated earning"
+  },
+  "handover": {
+    "title": "Digital Handover",
+    "confirm": "Confirm Handover",
+    "verified": "Recycler Verified",
+    "qrLabel": "Scan handover reference",
+    "qrSpeak": "Transaction ID",
+    "shareQr": "Share QR",
+    "downloadQr": "Download QR"
+  },
+  "earnings": {
+    "title": "My Earnings",
+    "total": "Total Earnings",
+    "pending": "Pending",
+    "transactions": "Transactions",
+    "sold": "Material Sold"
+  },
+  "safety": {
+    "title": "Safety Guide"
+  },
+  "offline": {
+    "offline": "You are offline. Your data is safe.",
+    "online": "Internet restored",
+    "pendingSync": "Pending Sync",
+    "syncComplete": "Sync Complete",
+    "savedDraft": "Draft saved on this phone",
+    "queuedLot": "Lot saved offline. It will sync when internet returns.",
+    "queuedTxn": "Selection saved offline. Will sync when online.",
+    "sync": "Sync",
+    "installing": "Installing…"
+  },
+  "maps": {
+    "title": "Find Recyclers on Map",
+    "subtitle": "Your location, authorized facilities, and service radius",
+    "gpsDenied": "GPS permission denied. Showing Gurugram demo center.",
+    "openMap": "Map",
+    "usingGps": "📍 Using GPS",
+    "usingCity": "📍 Using:",
+    "filterCity": "Filter by city"
+  },
+  "common": {
+    "demo": "Demo data",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading…",
+    "error": "Something went wrong. Please try again.",
+    "installHint": "Install this app on your phone for offline use"
+  }
+}

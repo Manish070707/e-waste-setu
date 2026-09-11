@@ -1,0 +1,12 @@
+# Dependencies / env
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/**/__pycache__/
+backend/*.db
+backend/ewaste_setu.db
+.env
+frontend/.env.local
+*.pyc
+.DS_Store
+.vite/

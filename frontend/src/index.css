@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  --font-display: "Outfit", "Plus Jakarta Sans", sans-serif;
+  --color-eco-50: #ecfdf5;
+  --color-eco-100: #d1fae5;
+  --color-eco-200: #a7f3d0;
+  --color-eco-500: #10b981;
+  --color-eco-600: #059669;
+  --color-eco-700: #047857;
+  --color-eco-800: #065f46;
+  --color-eco-900: #064e3b;
+  --color-cream: #f7f5f0;
+  --color-warn: #f59e0b;
+  --color-danger: #dc2626;
+  --color-info: #2563eb;
+}
+
+:root {
+  --eco-green: #059669;
+  --off-white: #f7f5f0;
+  --warn-orange: #f59e0b;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--off-white);
+  color: #12261c;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+.font-display {
+  font-family: var(--font-display);
+}
+
+.touch-target {
+  min-height: 52px;
+  min-width: 52px;
+}
+
+.safe-bottom {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}
